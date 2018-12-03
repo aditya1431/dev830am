@@ -14,3 +14,10 @@ class Demo
   .......
   -----  
 }
+void newMethod()
+{
+new code from Global repo
+you can pull the code ....
+}
+
+  
