@@ -1,3 +1,7 @@
+void balEnqry()
+{
+  .....
+}
 void Deposite()
 {
   bal = bal + amt
