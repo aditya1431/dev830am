@@ -1,3 +1,7 @@
+void loans()
+{
+  ......
+}
 void FundTrsn()
 {
   ......
